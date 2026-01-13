@@ -24,5 +24,5 @@ Focused on Blue Team and defensive security.
 - Google Cybersecurity Professional Certificate – Coursera
 
 ## Contact
-- LinkedIn: [](https://www.linkedin.com/in/jalen-taylor-70259b3a3/)]
+- LinkedIn: [(https://www.linkedin.com/in/jalen-taylor-70259b3a3/)]
 - Email: [jalentaylor887@gmail.com]
